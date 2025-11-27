@@ -1,4 +1,4 @@
-FROM chatwoot/chatwoot:latest
+FROM chatwoot/chatwoot:v4.8.0
 LABEL maintainer="TuxTech"
 LABEL description="Chatwoot customizado para Baileys (Evolution API)"
 WORKDIR /app
